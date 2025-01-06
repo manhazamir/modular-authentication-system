@@ -1,0 +1,17 @@
+# .gitignore (for both client and server)
+
+# Ignore node_modules for both client and server
+client/node_modules/
+server/node_modules/
+
+# Ignore .env files for both client and server
+client/.env
+server/.env
+
+# Ignore logs
+*.log
+
+# Ignore other common files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

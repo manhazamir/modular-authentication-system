@@ -1,4 +1,4 @@
-# User Guide for Authentication and Session Management Application
+# User Guide for a Secure User Authentication System
 
 ## Introduction
 

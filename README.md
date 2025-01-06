@@ -28,15 +28,15 @@ To get started, clone the repository and install the necessary dependencies.
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/manhazamir/modular-authentication-system.git
     ```
 
-2. Install backend dependencies:
+2. Navigate to /server. Install backend dependencies:
     ```bash
     npm install
     ```
 
-3. Install frontend dependencies:
+3. Navigate to /client. Install frontend dependencies:
     ```bash
     npm install
     ```
